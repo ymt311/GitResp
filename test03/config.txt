@@ -1,0 +1,4 @@
+sourceName=Transform.DatabaseSource
+methodName1=transferBefore
+transformerName=Transform.XLSTTransformer
+methodName2=transferAfter
