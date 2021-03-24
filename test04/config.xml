@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<config>
+    <!--RefinedAbstraction-->
+    <className>bridgeConnection.BMPImage</className>
+    <!--ConcreteImplementor-->
+    <className>bridgeConnection.UnixImp</className>
+</config>
